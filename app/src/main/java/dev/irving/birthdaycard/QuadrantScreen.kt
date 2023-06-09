@@ -1,4 +1,4 @@
-package dev.irving.birthdaycard.ui.theme
+package dev.irving.birthdaycard
 
 import androidx.annotation.StringRes
 import androidx.compose.foundation.background
@@ -19,7 +19,10 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Devices
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import dev.irving.birthdaycard.R
+import dev.irving.birthdaycard.ui.theme.Pink40
+import dev.irving.birthdaycard.ui.theme.Pink80
+import dev.irving.birthdaycard.ui.theme.Purple40
+import dev.irving.birthdaycard.ui.theme.Purple80
 
 @Composable
 fun QuadrantView(
