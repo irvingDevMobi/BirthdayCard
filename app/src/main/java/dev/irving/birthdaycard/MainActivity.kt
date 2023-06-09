@@ -34,10 +34,11 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    GreetingImage(
+                    /*GreetingImage(
                         stringResource(R.string.happy_birthday_text),
                         stringResource(R.string.signature_text),
-                    )
+                    )*/
+                    BusinessCardView()
                 }
             }
         }

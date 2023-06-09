@@ -14,4 +14,14 @@
     <string name="row_composable_summary">A layout composable that places its children in a horizontal sequence.</string>
     <string name="column_composable_title">Column composable</string>
     <string name="column_composable_summary">A layout composable that places its children in a vertical sequence.</string>
+    <string name="my_name">Irving Dev</string>
+    <string name="my_seniority">Staff Software Engineer, Android.</string>
+    <string name="my_email">irving.dev.mobi@gmail.com</string>
+    <string name="my_github">\@irvingDevMobi</string>
+    <string name="my_twitter">\@irvingDevMobi</string>
+    <string name="my_facebook">irvingDevMobi</string>
+    <string name="github">Github</string>
+    <string name="email">Email</string>
+    <string name="twitter">Twitter</string>
+    <string name="facebook">Facebook</string>
 </resources>
